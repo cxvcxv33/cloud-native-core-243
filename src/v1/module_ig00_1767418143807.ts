@@ -1,0 +1,1 @@
+const util_ig00 = (d: any) => d;
